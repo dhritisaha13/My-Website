@@ -1,0 +1,81 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+
+.sectionLight{
+    background-color:rebeccapurple;
+    padding: 2em;
+}
+
+.carousel-photo{
+    padding-left: 10em;
+}
+
+.sectionDark{
+    background-color: deeppink;
+    padding: 2rem;
+}
+
+.moreDetails{
+    margin-top: 20px;
+}
+
+button.moreDetailsBtn{
+    background-color:coral;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title{
+    padding-left: 8rem;
+    color: crimson;
+}
+
+.modalFormWrapper{
+    padding: 2rem;
+}
+
+.moreinfo-img{
+    padding-left: 9em;
+}
+
+.imgCenter{
+    display: block;
+    margin: auto;
+}
+
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: red;
+    color: white;
+    width: 54%;
+}
+
+.footerImg{
+    padding: 15px;
+}
+
+.fa{
+    margin: 10px;
+}
+
+.fa-facebook-square{
+    color: #3b5998;
+}
+
+.fa-linkedin-square{
+    color: blue;
+}
+
+.fa-instagram{
+    color: #ffffff;
+}
+
+.socialWrapper{
+    margin: auto;
+}
